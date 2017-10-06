@@ -1,0 +1,19 @@
+{
+  "name": "notifications",
+  "version": "1.0.0",
+  "description": "## API permettant de récupérer les alertes météorologiques de Nantes en temps réel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "*"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.1",
+    "socket.io": "^2.0.3"
+  }
+}
